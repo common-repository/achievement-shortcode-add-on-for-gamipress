@@ -1,0 +1,10 @@
+{
+  "name": "konnektiv/gamipress-achievement-shortcode-add-on",
+  "description": "This GamiPress Add-on adds a shortcode to show or hide content depending on if the user has earned a specific achievement.",
+  "type": "wordpress-plugin",
+  "license": "AGPL-3.0",
+  "require": {
+    "composer/installers": "~1.0",
+    "php": ">=5.2.4"
+  }
+}
